@@ -1,4 +1,6 @@
 # Crawler-Cruller
+![dash example](https://github.com/user-attachments/assets/f0ae3fed-c10e-48bb-bb7e-ef44dd9b67e4)
+
 Hideyuki Furuhasi’s 126-chapter manga series, My Hero Academia: Vigilantes is a charming tale and reframing of what it means to be a hero. Additionally, it bolsters local communities, details rehabilitation practices, and emphasizes relationships over whatever might necessarily be “right”. When the anime released earlier this year, I knew I had to address a burning question. Does the long-running joke of people mispronouncing our protagonist, Koichi’s, hero name, “The Crawler” as “The Cruller” have any actual standing? 
 
 Was it just one witty person? Did normal average people do this? During a light re-read of the manga, I decided to answer these questions by recording every instance of where Koichi was referred to or addressed to by another person while he was doing hero duties.  
